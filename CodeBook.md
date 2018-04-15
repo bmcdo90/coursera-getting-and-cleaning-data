@@ -109,7 +109,7 @@ These signals were used to estimate variables of the feature vector for each pat
 * "STANDING": subject was standing during the test
 * "LAYING": subject was laying down during the test
 
-Transformations
+## Transformations
 The zip file containing the source data is located at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 
 The following transformations were applied to the source data:
