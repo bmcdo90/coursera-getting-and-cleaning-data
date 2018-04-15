@@ -34,18 +34,18 @@ The R script `run_analysis.R` can be used to create the data set. It retrieves t
 
 The `average_per_student_activity.txt` in this repository was created by running the `run_analysis.R` script using:
 
-platform       i386-w64-mingw32            
-arch           i386                        
-os             mingw32                     
-system         i386, mingw32                                                   
-major          3                           
-minor          4.3                         
-year           2017                        
-month          11                          
-day            30                          
-svn rev        73796                       
-language       R                           
-version.string R version 3.4.3 (2017-11-30)
-nickname       Kite-Eating Tree            
+platform:       i386-w64-mingw32            
+arch:           i386                        
+os:             mingw32                     
+system:         i386, mingw32                                                   
+major:          3                           
+minor:          4.3                         
+year:           2017                        
+month:          11                          
+day:            30                          
+svn rev:        73796                       
+language:       R                           
+version.string: R version 3.4.3 (2017-11-30)
+nickname:       Kite-Eating Tree            
 
 This script requires the `dplyr` package (version 0.7.4 was used).
